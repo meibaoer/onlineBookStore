@@ -1,0 +1,11 @@
+.foot_color{color:#333333; text-decoration:none;}
+a.foot_color:hover{color:#333333; text-decoration:underline;}
+.foot_color_1{color:#FF0000; text-decoration:none;}
+.foot_color_1_a{color:#0000FF; text-decoration:none;}
+a.foot_color_1:hover{color:#FF0000; text-decoration:underline;}
+.foot_color_2{color:#666666; text-decoration:underline;}
+a.foot_color_2:hover{color:#666666; text-decoration:none;}
+
+.foot_Bottom{width:950px; margin:5px 0 0 0; padding:0;}
+.foot_Bottom_1{width:950px; height:1px; margin:0; padding:0; border-bottom:1px solid #CCCCCC; float:left; overflow:hidden;}
+.foot_Bottom_2{width:950px; margin:10px 0 0 0; padding:0; line-height:200%; text-align:center; float:left;}
